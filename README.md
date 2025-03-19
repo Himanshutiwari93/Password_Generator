@@ -4,7 +4,7 @@
 **This project is simple Password Generator  built with HTML,CSS,Javascript named as “Password Generator”. This project is fully completed and error free. It was compiled in VS Code Editor.**
 
  ## 🔗 To see the project
-  [Password.Generator](https://github.com/Himanshutiwari93/Password_Generator)
+  [Password.Generator](https://himanshutiwari93.github.io/Password_Generator/)
 ## 📌Built with
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
